@@ -1,4 +1,4 @@
-#🏠 Nairobi Cost of Living Dashboard
+# 🏠 Nairobi Cost of Living Dashboard
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#)
 ![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow?logo=powerbi)
