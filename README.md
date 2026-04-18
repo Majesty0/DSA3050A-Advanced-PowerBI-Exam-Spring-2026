@@ -49,8 +49,6 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 | 1/31/2019  | General Mathenge, Westlands  | 155,000     | 90,341     | Westlands  | 25,454     | 15,634          | 6,142           | 4        | 4         |
 | 1/31/2019  | Waiyaki Way, Westlands       | 150,000     | 93,902     | Westlands  | 24,808     | 17,194          | 6,803           | 2        | 2         |
 | 1/31/2019  | Kilimani, Dagoretti North    | 100,000     | 78,160     | Kileleshwa | 23,302     | 13,104          | 6,454           | 3        | 4         |
-| 1/31/2019  | Lavington, Dagoretti North   | 75,000      | 32,881     | Ngong      | 13,471     | 10,989          | 3,062           | 3        | 5         |
-| 1/31/2019  | Imara Daima, Embakasi        | 50,000      | 8,160      | Githurai   | 12,239     | 4,459           | 3,292           | 3        | 4         |
 
 ---
 
