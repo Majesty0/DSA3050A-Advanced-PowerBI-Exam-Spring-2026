@@ -1,25 +1,43 @@
-1. Data source: [Google](https://www.kaggle.com/datasets/yacooti/cost-of-living-in-nairobi)
+# 🌍 Nairobi Cost of Living Dashboard (2019–2024): Area Level Expense Trends and Budget Insights
+# Data Cleaning and DAX Measures Documentation
+
+![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow?logo=powerbi)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
+![Status](https://img.shields.io/badge/Project-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> By:
+> Kyeremateng Martin
+> 
+## Overview
+
+This document provides comprehensive documentation for all cleaning and DAX measures developed in the **Advanced PowerBI for Nairobi Living Expenses** project. Measures are designed to answer key business questions, support the executive dashboard, and ensure robust time intelligence. All measures follow a consistent naming convention for clarity and maintainability.
+
+
+# Data Cleaning and Manipulation
+
+## Data source: [Google](https://www.kaggle.com/datasets/yacooti/cost-of-living-in-nairobi)
 <img width="975" height="428" alt="image" src="https://github.com/user-attachments/assets/3975a003-4f6d-44b1-98b1-934caa1fd15e" />
 
-2. Raw data:
+## Raw data:
 <img width="1061" height="578" alt="image" src="https://github.com/user-attachments/assets/a396853f-6db8-4248-ad00-0475dea441d8" />
 
-4. BI view before cleaning:
+## BI view before cleaning:
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/712fb3ab-940f-453d-af0b-627b4df2924e" />
 
-3. After Cleaning:
+## After Cleaning:
 <img width="941" height="675" alt="image" src="https://github.com/user-attachments/assets/50dc98e1-c38b-410b-bf41-7aae4a8b6590" />
 
-5. Applied steps in cleaning and transformation
+## Applied steps in cleaning and transformation
 <img width="533" height="612" alt="image" src="https://github.com/user-attachments/assets/1f5ca453-5dd1-4c3c-a6ec-5bb3fd1eafe3" />
 
-6. Model View:
+## Model View:
 <img width="975" height="811" alt="image" src="https://github.com/user-attachments/assets/547c2a67-ca58-48ae-aae2-4fb0fc1a49f3" />
 
-7. Relationships:
+## Relationships:
 <img width="688" height="507" alt="image" src="https://github.com/user-attachments/assets/dbee2568-c8da-4a6c-b07d-9a711db1489c" />
 
-
+# DAX Development Documentation (Measures and Calculated Columns)
   ## Total Spend
 <img width="738" height="61" alt="image" src="https://github.com/user-attachments/assets/d6e2f010-0603-4a09-906d-729c13853dd1" />
  Similar to Total_Expenses, this measure sums the total spending but is likely filtered to a specific context (e.g., per area or per month). I created it as a base SUM measure for high level reporting\
