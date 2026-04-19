@@ -93,12 +93,62 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 ## Page 1: Executive Summary
 <img width="1346" height="795" alt="image" src="https://github.com/user-attachments/assets/59f2e1c3-c19a-4e3b-892f-41c2e3e125d1" />
 
+## Insights for customers:
+> Average monthly cost per person is 81.6K KES, well below the 150K KES goal. This suggests most Nairobi residents spend less than expected.
+> The highest expense category is Rent, followed by Food and Transport. Rent dominates the total 4.91 billion KES living expense.
+> Monthly total spend varies, between 37K and 250K KES – which realistic for a single person and msot likely a family or premium budget.
+
+## Recommendation for customers:
+> If you spend above 81,670 KES monthly, focus on reducing rent first. Consider moving to a lower‑tier area or downsizing.
+> Use the monthly trend to plan for high‑spending months (e.g., December). Set aside savings in lower months.
+
+## Insights for real estate developers:
+> Rent is the largest component of total living expense. Tenants are highly sensitive to rent increases.
+> The gap between current average (81.67K) and goal (150K) indicates an opportunity to offer mid‑range housing (e.g., 100‑120K per month) to capture upgraders.
+
+## Recommendation for developers:
+> Develop affordable‑premium units in areas like Langata or Ruaka, priced around 100‑120K KES per month. Market them as “half the cost of Karen but double the space of Githurai.”
+
 ## PART 2: Detailed Summary
-<img width="975" height="591" alt="image" src="https://github.com/user-attachments/assets/db9ccb4f-7ce5-4511-a520-b8cdde8c45a5" />
+<img width="1362" height="786" alt="image" src="https://github.com/user-attachments/assets/89f27e7e-615a-4e41-91ed-cf99697b6d14" />
+
+## Insights for customers:
+> Moving to Kasarani costs approximately 48,941 KES per month – significantly lower than the Nairobi average (81,670 KES).
+> The key influencer for low expense level is Quarter 1‑3 (1.64x higher likelihood). This means expenses are lower in the first three quarters of the year, possibly due to reduced holiday spending.
+> Daily average expenses per area range from 12.0M to 13.8M (aggregate, not per person). Kasarani’s per‑person cost is among the lowest.
+
+## Recommendation for customers:
+> If you work in or near Kasarani, relocate there immediately. Your monthly living cost will be 40% below Nairobi’s average.
+> Plan major purchases or rental renewals in Q1‑Q3 when your expense level is naturally lower.
+
+## Insights for real estate developers:
+> Kasarani is a high‑demand affordable area. Tenants are price‑sensitive but will pay for reliable utilities and security.
+> Daily aggregate expenses (13M+) show strong economic activity – not just residential but also commercial potential.
+
+## Recommendation for developers:
+> Invest in mixed‑use developments in Kasarani (ground floor retail, upper floors residential). The daily foot traffic and expense volume support small businesses.
+> Offer 1‑2 bedroom units between 45,000‑55,000 KES to match the average monthly cost.
+
 
 ## PART 3: Insights & Monitoring
-<img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/9c4688c4-a64b-4475-bd7d-55e531e094c1" />
+<img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
 
+## Insights for customers:
+> Premium areas (Karen, Westlands) have total spend above 0.6bn KES, while Affordable areas (e.g., Thika, Ruiru, Ruaka) spend below 0.4bn KES.
+> Within affordable tier, Thika and Ruiru show lower expense per area – excellent for budget living.
+> Average monthly expense distribution shows Karen at 229,480 KES, Westlands at 155,100 KES, and Githurai/Juja much lower (not shown but inferred).
+
+## Recommendation for customers:
+> For the lowest cost, choose Thika or Ruiru (satellite towns). For a balance of affordability and proximity, choose Ruaka or South B.
+> Avoid premium areas unless your salary is 3x the affordable area rate.
+
+## Insights for real estate developers:
+> The Middle tier (e.g., South B, Ruaka) has total spend between 0.4‑0.6bn – a growing segment of young professionals.
+> Premium areas have saturated high‑end demand; affordable areas have volume but low margins.
+
+## Recommendation for developers:
+> Focus new projects on middle tier areas (Ruaka, South B). Price units at 70‑90K KES per month. Include co‑working spaces and gyms – amenities that attract remote workers.
+> In affordable areas (Thika, Ruiru), build smaller units (studio/1BR) to keep rent under 50K KES and maximise occupancy.
 ---
 
 ## Key DAX Measures (8+)
