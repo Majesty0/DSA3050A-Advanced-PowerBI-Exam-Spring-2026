@@ -91,7 +91,8 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > Use the **Drill‑through** on the Area Deep Dive page: right‑click any area bar to see its full monthly history.
 
 ## Page 1: Executive Summary
-<img width="1346" height="795" alt="image" src="https://github.com/user-attachments/assets/59f2e1c3-c19a-4e3b-892f-41c2e3e125d1" />
+<img width="1340" height="783" alt="image" src="https://github.com/user-attachments/assets/a45cfcf0-8b68-41d1-ab85-c4b186074719" />
+
 
 ## Insights for customers:
 > Average monthly cost per person is 81.6K KES, well below the 150K KES goal. This suggests most Nairobi residents spend less than expected.
