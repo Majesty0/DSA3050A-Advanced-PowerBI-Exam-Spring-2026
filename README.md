@@ -91,45 +91,46 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > Use the **Drill‑through** on the Area Deep Dive page: right‑click any area bar to see its full monthly history.
 
 ## Page 1: Executive Summary
-<img width="1340" height="783" alt="image" src="https://github.com/user-attachments/assets/a45cfcf0-8b68-41d1-ab85-c4b186074719" />
+<img width="1353" height="788" alt="Screenshot 2026-04-20 044716" src="https://github.com/user-attachments/assets/5bcac4f9-e7a7-4123-936f-7c493bec14fa" />
 
+## Recommendations for Customers (Relocating Individuals/Employees)
+> If an employee or family spends above 55,000 KES monthly, we advise relocating from Karen or Kileleshwa to Kasarani, Kitengela, or Mlolongo. Potential monthly savings of 10,000‑15,000 KES are achievable. Use the year and quarter filters to identify seasonal spending peaks; plan major expenditures outside high‑cost quarters. Rent reduction should be the first priority – it is the largest single cost.
 
-## Insights for customers:
-> Average monthly cost per person is 81.6K KES, well below the 150K KES goal. This suggests most Nairobi residents spend less than expected.
-> The highest expense category is Rent, followed by Food and Transport. Rent dominates the total 4.91 billion KES living expense.
-> Monthly total spend varies, between 37K and 250K KES – which realistic for a single person and msot likely a family or premium budget.
+## Strategic Implications for Real Estate Developers
+> The typical tenant in these areas spends approximately 50,000 KES monthly, with rent as the largest component. Therefore, affordable rent should not exceed 25,000‑30,000 KES to leave adequate room for food, transport, and utilities. The narrow spread between minimum and maximum expenses suggests that even premium subcounties are not dramatically more expensive in this filtered view. We recommend verifying whether the data excludes large family homes or high‑end luxury units.
 
-## Recommendation for customers:
-> If you spend above 81,670 KES monthly, focus on reducing rent first. Consider moving to a lower‑tier area or downsizing.
-> Use the monthly trend to plan for high‑spending months (e.g., December). Set aside savings in lower months.
-
-## Insights for real estate developers:
-> Rent is the largest component of total living expense. Tenants are highly sensitive to rent increases.
-> The gap between current average (81.67K) and goal (150K) indicates an opportunity to offer mid‑range housing (e.g., 100‑120K per month) to capture upgraders.
-
-## Recommendation for developers:
-> Develop affordable‑premium units in areas like Langata or Ruaka, priced around 100‑120K KES per month. Market them as “half the cost of Karen but double the space of Githurai.”
+## Board Recommendations for Developers
+> In Kasarani, Kitengela, and Mlolongo: Build 1‑2 bedroom units with rent between 15,000‑22,000 KES. Keep total tenant expense under 50,000 KES.
+> In Karen and Kileleshwa: Avoid ultra‑high‑end units (rent >50,000 KES). Instead, develop smaller affordable units (25,000‑30,000 KES rent) targeting young professionals who desire a premium location without premium pricing.
 
 ## PART 2: Detailed Summary
-<img width="1362" height="786" alt="image" src="https://github.com/user-attachments/assets/89f27e7e-615a-4e41-91ed-cf99697b6d14" />
+<img width="1420" height="797" alt="Screenshot 2026-04-20 234116" src="https://github.com/user-attachments/assets/d07ceb21-0a8c-46fa-a8a2-b917d0c4736b" />
 
-## Insights for customers:
-> Moving to Kasarani costs approximately 48,941 KES per month – significantly lower than the Nairobi average (81,670 KES).
-> The key influencer for low expense level is Quarter 1‑3 (1.64x higher likelihood). This means expenses are lower in the first three quarters of the year, possibly due to reduced holiday spending.
-> Daily average expenses per area range from 12.0M to 13.8M (aggregate, not per person). Kasarani’s per‑person cost is among the lowest.
 
-## Recommendation for customers:
-> If you work in or near Kasarani, relocate there immediately. Your monthly living cost will be 40% below Nairobi’s average.
-> Plan major purchases or rental renewals in Q1‑Q3 when your expense level is naturally lower.
+## Strategic Insights – Board Level
 
-## Insights for real estate developers:
-> Kasarani is a high‑demand affordable area. Tenants are price‑sensitive but will pay for reliable utilities and security.
-> Daily aggregate expenses (13M+) show strong economic activity – not just residential but also commercial potential.
+> Rent variation is extreme: Westlands (97.8K) is **4.6 times higher** than Ruiru (21.3K). Food costs differ only 2.2 times, and miscellaneous expenses differ about 2.8 times. This confirms that rent is the primary lever for cost reduction. South B presents a balanced middle tier (rent 43.2K, food 17.0K). Githurai, though not fully displayed, shows very low figures (as low as 9.7K for some categories), reinforcing its position as a budget‑friendly option.
 
-## Recommendation for developers:
-> Invest in mixed‑use developments in Kasarani (ground floor retail, upper floors residential). The daily foot traffic and expense volume support small businesses.
-> Offer 1‑2 bedroom units between 45,000‑55,000 KES to match the average monthly cost.
+> The area tier visual (Affordable, Middle, Premium) and the bar chart (Area Expenses Y‑M) clearly rank areas: Karen, Kileleshwa, Langata, Westlands at the high end; Ruiru, Githurai, Donholm, Rongai at the low end. This ladder provides a clear market segmentation.
 
+## Recommendations for Customers (Employees/Families)
+
+> **Budget under 50,000 KES:** Choose Ruiru, Thika, or Umoja (rent 21‑28K, food 11‑14K) – sufficient room for transport and utilities.
+> **Mid‑level salary (60‑80K):** South B or Donholm are optimal; total expense around 60K, closer to city centre.
+> **Income above 150K:** Westlands or Karen are viable, but note that rent alone (97.8K) consumes most of a typical salary. Consider smaller units in these premium areas.
+
+## Implications for Real Estate Developers
+
+> The extreme rent sensitivity (4.6× gap) tells us that tenants will not tolerate high markups on non‑housing expenses – food and misc costs are relatively inelastic. The middle tier (South B, Donholm) shows healthy demand with rent around 43K – we believe this segment is under‑supplied. Premium areas (Westlands, Karen) offer high margins but a smaller tenant pool; targeting the right buyer is essential.
+
+## Board Recommendations for Developers
+
+> **Affordable areas (Ruiru, Thika, Umoja):** Develop 1‑2 bedroom units renting at 18,000‑25,000 KES. Prioritise reliable water and electricity – tenants in these areas value utility stability.
+> **Mid‑tier areas (South B, Donholm):** Build 2‑3 bedroom units at 35,000‑45,000 KES with secure parking and fibre internet. This segment has strong, underserved demand.
+> **Premium areas (Westlands, Karen):** Introduce a limited number of smaller units (1 bedroom) at 50,000‑60,000 KES rent to capture young professionals priced out of the luxury market.
+> **Mixed‑use potential:** In South B and Donholm, consider ground‑floor retail (groceries, cafes) paired with residential above – this can increase revenue per square metre.
+
+---
 
 ## PART 3: Insights & Monitoring
 <img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
