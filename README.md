@@ -152,6 +152,10 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > In affordable areas (Thika, Ruiru), build smaller units (studio/1BR) to keep rent under 50K KES and maximise occupancy.
 ---
 
+## Dashboard Video Demo
+> https://github.com/user-attachments/assets/1507e913-75f7-445c-90ae-d3976d5da026
+
+
 ## Key DAX Measures (8+)
 
 | **Measure**               | **Formula / Logic**                                                                 | **Purpose**                                      |
