@@ -91,7 +91,7 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > Use the **Drill‑through** on the Area Deep Dive page: right‑click any area bar to see its full monthly history.
 
 ## Page 1: Executive Summary
-<img width="1353" height="788" alt="Screenshot 2026-04-20 044716" src="https://github.com/user-attachments/assets/5bcac4f9-e7a7-4123-936f-7c493bec14fa" />
+> <img width="1353" height="788" alt="Screenshot 2026-04-20 044716" src="https://github.com/user-attachments/assets/5bcac4f9-e7a7-4123-936f-7c493bec14fa" />
 
 ## Recommendations for Customers (Relocating Individuals/Employees)
 > If an employee or family spends above 55,000 KES monthly, we advise relocating from Karen or Kileleshwa to Kasarani, Kitengela, or Mlolongo. Potential monthly savings of 10,000‑15,000 KES are achievable. Use the year and quarter filters to identify seasonal spending peaks; plan major expenditures outside high‑cost quarters. Rent reduction should be the first priority – it is the largest single cost.
@@ -104,7 +104,8 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > In Karen and Kileleshwa: Avoid ultra‑high‑end units (rent >50,000 KES). Instead, develop smaller affordable units (25,000‑30,000 KES rent) targeting young professionals who desire a premium location without premium pricing.
 
 ## PART 2: Detailed Summary
-<img width="1420" height="797" alt="Screenshot 2026-04-20 234116" src="https://github.com/user-attachments/assets/d07ceb21-0a8c-46fa-a8a2-b917d0c4736b" />
+> <img width="1423" height="795" alt="image" src="https://github.com/user-attachments/assets/f9e0b6ad-b946-455d-9a2c-534918f8022e" />
+
 
 
 ## Strategic Insights – Board Level
@@ -133,7 +134,10 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 ---
 
 ## PART 3: Insights & Monitoring
-<img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
+> Image 1: General Analysis
+> <img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
+> Image 2: Specific analysis
+> <img width="1426" height="789" alt="image" src="https://github.com/user-attachments/assets/d0d75880-a916-47d5-b97b-f77d046cd416" />
 
 ## Insights for customers:
 > Premium areas (Karen, Westlands) have total spend above 0.6bn KES, while Affordable areas (e.g., Thika, Ruiru, Ruaka) spend below 0.4bn KES.
