@@ -137,7 +137,8 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > Image 1: General Analysis
 > <img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
 > Image 2: Specific analysis
-> <img width="1426" height="789" alt="image" src="https://github.com/user-attachments/assets/d0d75880-a916-47d5-b97b-f77d046cd416" />
+> <img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/177bac08-8ad1-4655-859b-9b683e313b78" />
+
 
 ## Insights for customers:
 > Premium areas (Karen, Westlands) have total spend above 0.6bn KES, while Affordable areas (e.g., Thika, Ruiru, Ruaka) spend below 0.4bn KES.
