@@ -137,7 +137,8 @@ Individuals relocating to Nairobi, HR departments setting location‑based salar
 > Image 1: General Analysis
 > <img width="1353" height="781" alt="image" src="https://github.com/user-attachments/assets/4543fcd3-af75-435e-bfdf-1a7dee8e13db" />
 > Image 2: Specific analysis
-> <img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/177bac08-8ad1-4655-859b-9b683e313b78" />
+> <img width="1416" height="797" alt="image" src="https://github.com/user-attachments/assets/65d7ccff-d860-4175-a276-30b16198dac4" />
+
 
 
 ## Insights for customers:
